@@ -11,10 +11,10 @@ O projekcie:
 Kluczowe moduły strony:
 -Sekcja Hero: Baner powitalny z płynnym przyciskiem akcji kierującym do eksploracji portalu.
 -O nas: Krótkie wprowadzenie do portalu
--Interaktywny Katalog Gatunków: Dynamiczna siatka kart przedstawiająca poszczególne zwierzęta wraz ze szczegółowymi parametrami (średnia waga, wzrost, cechy charakterystyczne). Sekcja umożliwia filtrowanie według -kategorii (np. psy, koty, gryzonie, ptaki, gady).
+-Interaktywny Katalog Gatunków: Dynamiczna siatka kart przedstawiająca poszczególne zwierzęta wraz ze szczegółowymi parametrami (średnia waga, wzrost, cechy charakterystyczne). Sekcja umożliwia filtrowanie według -kategorii 
 -Slider Zdjęć: Płynny, interaktywny slider prezentujący fotografie zwierząt z możliwością nawigacji przyciskami.
 -Ciekawostki: Sekcja z ciekawostkami
--Formularz Kontaktowy i Stopka: Nawigacja pomocnicza, linki do mediów społecznościowych oraz formularz kontaktowy.
+-Kontakt w Stopce
 
 Wykorzystane technologie i rozwiązania
 
@@ -25,7 +25,7 @@ Dbałość o strukturę nagłówków (`<h1>`-`<h3>`)
 
 2. CSS
 Struktura i układy: Wykorzystanie modułów CSS Grid (dla kart zwierząt) oraz Flexbox (dla nawigacji i układu elementów).
-Responsywność (RWD): Zastosowanie reguł `@media` dopasowujących wygląd strony do urządzeń mobilnych, tabletów i ekranów stacjonarnych.
+Responsywność (RWD): Zastosowanie reguł `@media` dopasowujących wygląd strony do urządzeń mobilny i ekranów stacjonarnych.
 Stylizacja i Zmienne CSS: Spójna paleta kolorystyczna oparta na zmiennych CSS (`:root`)
 
 3. JavaScript (Vanilla JS)
