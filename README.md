@@ -2,19 +2,19 @@
 
 Linki do projektu
 Strona (GitHub Pages): https://tereqsynka.github.io/Swiat-Zwierzat/
-Repozytorium kodu (GitHub): 
+Repozytorium kodu (GitHub): https://github.com/TereqSynka/Swiat-Zwierzat.git
 
-O projekcie
+O projekcie:
 
 Świat Zwierząt to nowoczesny, w pełni responsywny portal blogowy poświęcony różnorodnym gatunkom zwierząt domowych i egzotycznych (psy, koty, gryzonie, gady, ptaki).
 
 Kluczowe moduły strony:
-ekcja Hero: Baner powitalny z płynnym przyciskiem akcji kierującym do eksploracji portalu.
-O nas: Krótkie wprowadzenie do portalu
-Interaktywny Katalog Gatunków: Dynamiczna siatka kart przedstawiająca poszczególne zwierzęta wraz ze szczegółowymi parametrami (średnia waga, wzrost, cechy charakterystyczne). Sekcja umożliwia filtrowanie według kategorii (np. psy, koty, gryzonie, ptaki, gady).
-Slider Zdjęć: Płynny, interaktywny slider prezentujący fotografie zwierząt z możliwością nawigacji przyciskami.
-Ciekawostki: Sekcja z ciekawostkami
-Formularz Kontaktowy i Stopka: Nawigacja pomocnicza, linki do mediów społecznościowych oraz formularz kontaktowy.
+-Sekcja Hero: Baner powitalny z płynnym przyciskiem akcji kierującym do eksploracji portalu.
+-O nas: Krótkie wprowadzenie do portalu
+-Interaktywny Katalog Gatunków: Dynamiczna siatka kart przedstawiająca poszczególne zwierzęta wraz ze szczegółowymi parametrami (średnia waga, wzrost, cechy charakterystyczne). Sekcja umożliwia filtrowanie według -kategorii (np. psy, koty, gryzonie, ptaki, gady).
+-Slider Zdjęć: Płynny, interaktywny slider prezentujący fotografie zwierząt z możliwością nawigacji przyciskami.
+-Ciekawostki: Sekcja z ciekawostkami
+-Formularz Kontaktowy i Stopka: Nawigacja pomocnicza, linki do mediów społecznościowych oraz formularz kontaktowy.
 
 Wykorzystane technologie i rozwiązania
 
