@@ -11,4 +11,4 @@ Wykorzystane technologie
 -JavaScript interaktywny slider, filtrowanie elementów, menu mobilne, efekt wyłaniania sekcji
 
 Link do opublikowanej strony
-https://github.com/TereqSynka/Swiat-Zwierzat.git
+ https://tereqsynka.github.io/Swiat-Zwierzat/
