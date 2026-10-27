@@ -1,8 +1,8 @@
 Świat Zwierząt - Blog
 
 Linki do projektu
-Strona (GitHub Pages): https://tereqsynka.github.io/Swiat-Zwierzat/
-Repozytorium kodu (GitHub): https://github.com/TereqSynka/Swiat-Zwierzat.git
+Strona: https://tereqsynka.github.io/Swiat-Zwierzat/
+Repozytorium kodu: https://github.com/TereqSynka/Swiat-Zwierzat.git
 
 O projekcie:
 
